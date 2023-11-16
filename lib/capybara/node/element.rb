@@ -536,7 +536,7 @@ module Capybara
 
       ##
       #
-      # Toggle the elements background color between white and black for a period of time.
+      # Toggle the elements background color between white and black for a period of time!
       #
       # @return [Capybara::Node::Element]  The element
       def flash
